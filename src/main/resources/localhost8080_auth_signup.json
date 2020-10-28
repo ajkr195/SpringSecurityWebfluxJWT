@@ -1,0 +1,14 @@
+{
+    "username":"myfirstname",
+    "password":"secretpassword",
+    "name":"myname",
+    "age":"22",
+    "salary":"222222222",
+    "roles": [
+        {
+            "name":"ROLE_ADMIN",
+            "description":"ADMIN"
+        }
+    ]
+    
+    }
